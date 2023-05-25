@@ -11,7 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  isar: 3.1.0+1
+  isar:
+    git:
+      url: https://github.com/Donluigimx/isar
+      ref: 42cf20e45fc711807c8e9ca6a754c108c328de25
 
 flutter:
   plugin:
