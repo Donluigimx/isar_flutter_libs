@@ -14,7 +14,7 @@ dependencies:
   isar:
     git:
       url: https://github.com/Donluigimx/isar
-      ref: 42cf20e45fc711807c8e9ca6a754c108c328de25
+      ref: main
 
 flutter:
   plugin:
